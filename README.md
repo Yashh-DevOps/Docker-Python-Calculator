@@ -1,4 +1,4 @@
-# 🐳 Dockerized Python Calculator
+# 🐳 dOckerized Python Calculator
 
 This project demonstrates how to **containerize a simple Python calculator application using Docker**.
 It is a beginner-friendly project to understand **Docker images, containers, and running Python applications inside Docker**.
